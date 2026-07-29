@@ -44,7 +44,7 @@ registerSocketHandlers(io);
 async function start() {
   await connectDB();
   await initWordBank();
-  server.listen(PORT, () => {
+   server.listen(PORT, () => {
     console.log(`[server] listening on port ${PORT}`);
   });
 }
