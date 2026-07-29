@@ -1,3 +1,4 @@
+```markdown
 # skribbl.io Clone
 
 A real-time multiplayer drawing & guessing game (Pictionary-style), built with the MERN stack
@@ -225,5 +226,4 @@ eligible players who guessed correctly that round.
   the frontend's `VITE_API_URL`/`VITE_SOCKET_URL` are compiled into the JS bundle at Docker
   **build** time — updating them later requires rebuilding/redeploying the frontend image, not
   just editing an env var.
-#   S k r i b b l i e - p r o j e c t  
- 
+```
