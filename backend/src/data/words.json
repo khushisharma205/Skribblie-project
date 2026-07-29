@@ -1,0 +1,31 @@
+{
+  "animals": [
+    "dog", "cat", "elephant", "giraffe", "lion", "tiger", "zebra", "monkey",
+    "kangaroo", "penguin", "dolphin", "shark", "octopus", "spider", "butterfly",
+    "eagle", "owl", "snake", "frog", "rabbit", "horse", "cow", "pig", "sheep",
+    "chicken", "duck", "bear", "wolf", "fox", "squirrel", "turtle", "crab"
+  ],
+  "objects": [
+    "chair", "table", "lamp", "clock", "phone", "computer", "guitar", "piano",
+    "umbrella", "backpack", "camera", "television", "bicycle", "car", "airplane",
+    "boat", "train", "key", "scissors", "hammer", "ladder", "mirror", "candle",
+    "book", "glasses", "shoe", "hat", "watch", "wallet", "suitcase", "bottle"
+  ],
+  "food": [
+    "pizza", "burger", "sushi", "banana", "apple", "watermelon", "ice cream",
+    "cake", "sandwich", "pancake", "taco", "donut", "popcorn", "cheese",
+    "carrot", "broccoli", "egg", "bread", "cookie", "hotdog", "noodles",
+    "strawberry", "grapes", "lemon", "pineapple", "corn", "pumpkin"
+  ],
+  "actions": [
+    "running", "swimming", "dancing", "jumping", "sleeping", "singing",
+    "reading", "writing", "cooking", "painting", "fishing", "climbing",
+    "laughing", "crying", "flying", "driving", "skating", "surfing",
+    "boxing", "juggling", "sneezing", "yawning", "waving", "clapping"
+  ],
+  "places": [
+    "beach", "mountain", "castle", "school", "hospital", "airport", "farm",
+    "desert", "forest", "island", "volcano", "library", "museum", "zoo",
+    "stadium", "bridge", "lighthouse", "waterfall", "cave", "jungle"
+  ]
+}
